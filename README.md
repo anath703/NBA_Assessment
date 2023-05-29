@@ -1,6 +1,6 @@
 # NBA_Assessment
 
-In this project, I will be using this [data set from Kaggle](https://www.kaggle.com/datasets/mattop/nba-draft-basketball-player-data-19892021?resource=download) to do analysis on the NBA draft.
+In this project, I will be using this [data set from Kaggle](https://www.kaggle.com/datasets/mattop/nba-draft-basketball-player-data-19892021?resource=download) to do analysis on the NBA draft. The data is saved in this repository as [nbaplayersdraft.csv](https://github.com/anath703/NBA_Assessment/blob/main/nbaplayersdraft.csv).
 
 
 ## Part 1: Data Comprehension
