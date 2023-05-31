@@ -12,7 +12,9 @@ In this project, I will be using this [data set from Kaggle](https://www.kaggle.
 **(B)** Describe the relationship between a team’s first round pick slot in one year with their first-round pick slot in
 the subsequent year.
 
-## Part 2: Analytical Acumen: Analyze draft position value and team success/deficiencies compared to expectation
+## Part 2: Analytical Acumen: 
+
+Analyze draft position value and team success/deficiencies compared to expectation
 
 **(a)** Create a method for valuing each draft slot in the NBA Draft (picks 1 through 60 in most drafts).
 
